@@ -1,7 +1,7 @@
 exports.routes = [
     {
         method: 'GET',
-        path: '/index',
+        path: '/',
         handler: (req, res) => {
             return require('./json/index.json');
         }
