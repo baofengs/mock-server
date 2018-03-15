@@ -1,7 +1,7 @@
 Mock  Server
 ------------
 
-基于[Hapi](https://hapijs.com)搭建的 mock server
+Mock Server Based on [Hapi](https://hapijs.com)
 
 Install
 -------
