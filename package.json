@@ -1,0 +1,19 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run mock",
+    "mock": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "hapi": "^17.2.2",
+    "inert": "^5.1.0"
+  }
+}
